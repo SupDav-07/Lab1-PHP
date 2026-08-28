@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Calculadora</title>
+</head>
+<body>
+    <h2>Calculadora en PHP</h2>
+    <form method="post" action="calculadora.php">
+        Nùmero 1:
+        <input type="text" name="num1">
+        <br><br>
+        Número 2:
+        <input type="text" name="num2">
+        <br><br>
+        Operación;
+        <select name="operacion">
+            <option value="suma">Sumar</option>
+            <option value="resta">Restar</option>
+            <option value="multiplicacion">Multiplicar</option>
+        </select>
+        <br><br>
+        Decimales a redondear:
+        <input type="text" name="decimales" value="2">
+        <br><br>
+        <input type="submit" value="Calcular">
+    </form>
+
+</body>
+</html>
