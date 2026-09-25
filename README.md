@@ -22,6 +22,8 @@ Este repositorio es un laboratorio compuesto por un conjunto de varios códigos 
 
 
 - **Práctica 1 - Iniciación (`practica1.php`):** imprime una cadena de texto simple ("Hello World!") usando `echo`.
+- <img width="862" height="325" alt="image" src="https://github.com/user-attachments/assets/04d020f7-beae-4af2-b98f-5acba5796366" />
+
 - **Práctica 3 - Variables (`practica3.php`):** imprime una cadena combinando texto fijo en HTML con el valor de variables, usando interpolación de variables en PHP.
 - **Verificación de instalación (`info.php`):** ejecuta `phpinfo()` para confirmar que PHP está correctamente instalado y configurado en el servidor.
 - **Laboratorio #1 - Conversor de pulgadas a centímetros (`pulgadas.html` / `pulgadas.php`):** formulario que recibe una cantidad de pulgadas y calcula su equivalente en centímetros (1 pulgada = 2.54 cm).
