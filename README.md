@@ -22,14 +22,27 @@ Este repositorio es un laboratorio compuesto por un conjunto de varios códigos 
 
 
 - **Práctica 1 - Iniciación (`practica1.php`):** imprime una cadena de texto simple ("Hello World!") usando `echo`.
-- <img width="862" height="325" alt="image" src="https://github.com/user-attachments/assets/04d020f7-beae-4af2-b98f-5acba5796366" />
+- <img width="790" height="300" alt="image" src="https://github.com/user-attachments/assets/c605d606-e883-4035-bd7f-c524795751b1" />
+
 
 - **Práctica 3 - Variables (`practica3.php`):** imprime una cadena combinando texto fijo en HTML con el valor de variables, usando interpolación de variables en PHP.
+- <img width="770" height="395" alt="image" src="https://github.com/user-attachments/assets/44a3e187-c092-447b-8c87-19d71418b213" />
+
+
 - **Verificación de instalación (`info.php`):** ejecuta `phpinfo()` para confirmar que PHP está correctamente instalado y configurado en el servidor.
+- <img width="1650" height="1407" alt="image" src="https://github.com/user-attachments/assets/b86b51a3-a0e0-476e-979c-1ad3d5cade5b" />
+
 - **Laboratorio #1 - Conversor de pulgadas a centímetros (`pulgadas.html` / `pulgadas.php`):** formulario que recibe una cantidad de pulgadas y calcula su equivalente en centímetros (1 pulgada = 2.54 cm).
+- <img width="795" height="672" alt="image" src="https://github.com/user-attachments/assets/754d5989-8561-40b4-b16d-91aafe6659b6" />
+
 - **Problema #2 - Calculadora (`calculadora.html` / `calculadora.php`):** formulario que realiza operaciones de suma, resta y multiplicación entre dos números, con redondeo configurable de decimales usando `round()`.
+- <img width="917" height="762" alt="image" src="https://github.com/user-attachments/assets/6704f42b-b307-46b2-ad0c-2a056b1f64c0" />
+
 - **Formulario de nombre y edad (`formulario.html` / `pagina2.php`):** formulario que recibe un nombre y una edad, y valida si la persona es mayor de edad.
+<img width="760" height="737" alt="image" src="https://github.com/user-attachments/assets/deff621b-b0bc-4310-af57-c285a64cfa70" />
+
 - **Área y perímetro de un círculo (`circulo.html` / `circulo.php`):** formulario que recibe el radio de una circunferencia y calcula su área y perímetro.
+<img width="805" height="1160" alt="image" src="https://github.com/user-attachments/assets/4f1fbfde-e080-4b02-85b6-2772ec587a3a" />
 
 ## 📁 Estructura de Carpetas o Directorios
 
